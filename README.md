@@ -2,11 +2,11 @@
  GUI Sorting Assignment for Design And Analysis Of Algorithm
 
 # A few Screenhots 
-![Starting Window](/png1.png)
+![Starting Window](/images/png1.png)
 Enter the number in the input window and then choose the technique
-![Bubble Sort]("png2.png")
+![Bubble Sort]("/images/png2.png")
 
-![Insetion Sort](/png3.png)
+![Insetion Sort](/images/png3.png)
 and others
 # Submitted by
 Group 1
