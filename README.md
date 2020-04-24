@@ -16,8 +16,9 @@ Roll No-
 18124007
 
 # Run this in your local machine
-use the following commands
+use the following commands for Windows
 ```
 git clone https://github.com/adityachaudhary147/DAA-GUI-Sorting/
+cd DAA-GUI-Sorting
 python main.py
 ```
