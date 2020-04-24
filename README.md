@@ -16,9 +16,16 @@ Roll No-
 18124007
 
 # Run this in your local machine
-use the following commands for Windows
+Use the following commands for Windows
+If python is installed then copy paste this
+in cmd.
+else install python in your system and
+set the path in environment variable 
+accordingly and copy paste the same.
 ```
 git clone https://github.com/adityachaudhary147/DAA-GUI-Sorting/
 cd DAA-GUI-Sorting
+.\venv\Scripts\activate
+pip install -r requirements.txt
 python main.py
 ```
