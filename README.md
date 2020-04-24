@@ -18,6 +18,6 @@ Roll No-
 # Run this in your local machine
 use the following commands
 ```
-git clone {{https://github.com/adityachaudhary147/DAA-GUI-Sorting/}}
+git clone https://github.com/adityachaudhary147/DAA-GUI-Sorting/
 python main.py
 ```
