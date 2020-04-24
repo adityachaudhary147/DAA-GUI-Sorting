@@ -4,7 +4,7 @@
 # A few Screenhots 
 ![Starting Window](/images/png1.png)
 Enter the number in the input window and then choose the technique
-![Bubble Sort]("/images/png2.png")
+![Bubble Sort](/images/png2.png)
 
 ![Insetion Sort](/images/png3.png)
 and others
